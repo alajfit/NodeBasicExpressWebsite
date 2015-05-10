@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px;
+  font: 14px Verdana, Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: 11px;
+}
+
+footer {
+    background-color: lightgrey;
+    height: 40px;
+    text-align: center;
+    margin-top:30px;
+    padding-top: 10px;
+    overflow: auto;
+}
+
+.jumbotron-background {
+    background-image: url(../images/space.jpg);
+}
+
+.jumbotron-font-color {
+    color: whitesmoke;
+}
+
+.link-boxes {
+    background-color: darkslategrey;
+    color: wheat;
+    margin: 5px;
+    height: 200px;
+}
